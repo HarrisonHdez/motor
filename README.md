@@ -1,16 +1,16 @@
-# Motor de Decisión de Crédito
+# Motor de Decision de Credito
 
-Este código en JavaScript calcula montos de crédito y recomendaciones óptimas basados en el tipo de nómina, fecha de primer empleo y género del cliente.
+Este codigo en JavaScript calcula montos de credito y recomendaciones optimas basados en el tipo de nomina, fecha de primer empleo y genero del cliente.
 
 ## Uso
 
-Llama a `calculoMotor` con `tipoNomina`, `fechaPrimerEmpleo`, y `genero` como parámetros.
+Llama a calculoMotor con tipoNomina, fechaPrimerEmpleo, y genero como parametros.
 
 ## Resultados
 
-- `montoMinimo`: Monto mínimo de crédito.
-- `montoMaximo`: Monto máximo de crédito.
-- `recomendacionLinea`: Recomendación óptima de línea de crédito.
+- montoMinimo: Monto minimo de credito.
+- montoMaximo: Monto maximo de credito.
+- recomendacionLinea: Recomendacion optima de linea de credito.
 
 ## Ejemplo
 
